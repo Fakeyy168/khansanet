@@ -222,9 +222,9 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #https://tvking6282.cloud/k0detv6149/Lokal/Kilas7.m3u8
 
 #EXTINF:-1 tvg-id="Net TV.id"  group-title="INDONESIA" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#https://tvking6282.cloud/k0detv6149/Lokal/MDTV-HD.m3u8
-http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://mayangtv.my.id/vidio/875.m3u8
 
 #EXTINF:-1 tvg-id="Mentari TV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
