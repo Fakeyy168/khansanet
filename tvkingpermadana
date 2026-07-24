@@ -197,17 +197,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Trans7.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://tvratu.my.id/vid/index.m3u8?id=734&type=hls
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="INDONESIA",TransTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w886394252_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI4ODI4NjEmd293emF0b2tlbmhhc2g9dGpOd0VZMTI2YjFMRUNNUGxQZ3NLeHVianQtODJhVjBuTl9Fc05Eamx5TT0=.m3u8
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w260901243_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI4ODcyOTMmd293emF0b2tlbmhhc2g9QTY5N1hMYUxUQ25ucGZYRDJwdmdueUlNS3k0a2lGbXFPRGV1MG5HUURoND0=.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://tvratu.my.id/vid/index.m3u8?id=733&type=hls
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Maxstream.id" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM HD
 #https://tvking6282.cloud/indihouse/maxstream.mpd
@@ -283,7 +280,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/img/od0w7R3.png?v=1.0.0.1" group-title="INDONESIA",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/206.m3u8
+https://tvratu.my.id/vid/index.m3u8?id=206&type=hls
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.transvision.co.id/img/channel/lingua.png",Lingua Channel
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
