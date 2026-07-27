@@ -280,6 +280,11 @@ https://tvratu.my.id/vid/index.m3u8?id=206&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://tvking6282.short.gy/linguach.mpd
 
+#EXTINF:-1 tvg-logo="https://www.netzsieger.de/mdx/product/672/linguatvf678c.png" group-title="INDONESIA",LINGUA TV
+#EXTVLCOPT:http-referrer=https://lingualtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://2nbyjxnbl53k-hls-live.5centscdn.com/6159_push_4404_002/266f0880a34af86cdbc548f092baec51.sdp/live/6159_push_4404_002LingualTV/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENC2ByvD3IxA8orVlZ6hs3GmTtgAidCk-AQ&usqp=CAU" group-title="INDONESIA",Garuda TV
 #EXTVLCOPT:http-referrer=https://garuda.tv/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
