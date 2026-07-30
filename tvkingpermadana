@@ -170,12 +170,10 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_of_Indonesian_Broadcasting_Commission.svg/250px-Logo_of_Indonesian_Broadcasting_Commission.svg.png",INDONESIA
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",Indosiar HD
-#EXTVLCOPT:http-user-agent=VisionPlus/5.10.1 (com.mnc.visionplus; build:20240101; Android 13; Model:Pixel 6)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -192,12 +190,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA" ,SCTV 
-#EXTVLCOPT:http-user-agent=VisionPlus/5.10.1 (com.mnc.visionplus; build:20240101; Android 13; Model:Pixel 6)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
