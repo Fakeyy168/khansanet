@@ -241,13 +241,11 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="Net TV.id"  group-title="INDONESIA" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/875.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=875&type=dash
 
 #EXTINF:-1 tvg-id="Mentari TV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/8237.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png",iNews HD
@@ -258,25 +256,21 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/6165.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=dash
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png",BeritaSatu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/18280.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=dash
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/783.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fd77alx.png?v=1.0.0.1" group-title="INDONESIA", Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://mayangtv.my.id/vidio/777.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="INDONESIA",KOMPAS TV
